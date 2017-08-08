@@ -68,12 +68,12 @@ Na początku moimi obowiązkami było wprowadzanie zmian w rysunkach technicznyc
 
 ### <a name="edukacja"></a>Edukacja
 
-**IX.2005 – VI.2010**  Politechnika Warszawska
-Studia inżynierskie
+#### **IX.2005 – VI.2010**  Politechnika Warszawska - studia inżynierskie
 Wydział Elektroniki i Technik Informacyjnych
-Kierunek: Telekomunikacja
-Specjalność: Systemy i sieci telekomunikacyjne
-Ocena końcowa: bardzo dobry
+
+- Kierunek: Telekomunikacja
+- Specjalność: Systemy i sieci telekomunikacyjne
+- Ocena końcowa: bardzo dobry
 
 ### <a name="inne"></a>Inne umiejętności i wiedza
 
@@ -83,8 +83,8 @@ Ocena końcowa: bardzo dobry
 - Szkolenia wewnętrzne Polkomtel S.A.: NSS, GPRS, BSS, VAS, IN, roaming i sygnalizacja.
 
 #### Języki obce
-- **Angielski** zdany egzamin na poziomie B2; czytanie książek i dokumentacji technicznej; pisemna i ustna komunikacja ze współpracownikami i dostawcami;
-- **Rosyjski** poziom komunikatywny
+- **Angielski**: zdany egzamin na poziomie B2; czytanie książek i dokumentacji technicznej; pisemna i ustna komunikacja ze współpracownikami i dostawcami;
+- **Rosyjski**: komunikatywny;
 
 #### Prawo jazdy
 kategorii B
