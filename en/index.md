@@ -56,7 +56,7 @@ Additional responsibilities:
 - Creating reports for management board.
 Tools: IBM Tivoli, BMC Remedy, vendors' network management tools (CLI and GUI), Wireshark, vendors' stack protocol analysis tools.
 
-#### **VIII.2008 - IX.2008 Polimex-Mostostal S.A.
+#### **VIII.2008 - IX.2008** Polimex-Mostostal S.A.
 **Student intership**
 Employed in a field of civil engineering I was resposible for making changes in technical drawings and a lot of boring tasks. I quickly wrote automation script and as a consequence I was asked by manager to make more automation tools. I wrote Excel macros(VBA), VBScripts and AutoCAD scripts.
 
