@@ -3,9 +3,7 @@ layout: default
 lang: pl
 ---
 
-## Witaj na strone Radka ![Radosław Daniluk](portret.jpg)
-
-### <a name="ja_i_kariera"></a>O mnie i moich aspiracjach zawodowych
+## <a name="ja_i_kariera"></a>O mnie i moich aspiracjach zawodowych
 
 Lubię programować i aktualnie w pracy widzę siebie na stanowisku związanym z **rozwojem oprogramowania**, choć z góry nie odrzucam innych stanowisk, bo życie potrafi mile zaskoczyć.
 
@@ -29,15 +27,15 @@ Staram się również stawać się lepszym człowiekiem i cenię sobie przyjazne
 
 Aktualnie zajmuję się także urządzaniem swojego siedliska we wsi Sarniak w woj. lubelskim, więc praca w lubelskim jest preferowaną, ale już wspomniałem, że życie potrafi miło zaskoczyć. :)
 
-### <a name="doswiadczenie"></a>Doświadczenie zawodowe
+## <a name="doswiadczenie"></a>Doświadczenie zawodowe
 
-#### **X.2013 – V.2014** Centrum Wsparcia Teleinformatycznego Sił Zbrojnych
+### **X.2013 – V.2014** Centrum Wsparcia Teleinformatycznego Sił Zbrojnych
 **Technik utrzymania stacji transmisyjnej i komutacyjnej**
 
 - Utrzymanie i rozwiązywanie problemów związanych z sieciami: transmisyjną, telefoniczną, LAN.
 - Tworzenie planów rozbudowy sieci teleinformatycznej.
 
-#### **IV.2012 – VIII.2012** Samsung Electronics Polska Sp. z o.o.
+### **IV.2012 – VIII.2012** Samsung Electronics Polska Sp. z o.o.
 **Młodszy Inż. ds. Protokołów**
 
 - Przeprowadzanie testów nowych urządzeń mobilnych
@@ -46,7 +44,7 @@ Aktualnie zajmuję się także urządzaniem swojego siedliska we wsi Sarniak w w
 
 Narzędzia: Perforce, Jenkins, Wireshark, analizatory protokołów dostawców.
 
-#### **I.2012 – III.2012** Polkomtel S.A.
+### **I.2012 – III.2012** Polkomtel S.A.
 **Inżynier ds. Zarządzania Usługami**
 
 Stanowisko podobne do Inżyniera NMC, ale zorientowane bardziej na usługi niż na elementy sieciowe
@@ -54,7 +52,7 @@ Dodatkowe obowiązki:
 - Ustalanie priorytetów wykonywania zadań na podstawie SLA.
 - Tworzenie procedur postępowania dla członków zespołu.
 
-#### **V.2009 – I.2012** Polkomtel S.A.
+### **V.2009 – I.2012** Polkomtel S.A.
 **Inżynier NMC**
 
 - Monitorowanie usług i elementów sieci komórkowej – GSM, GPRS, UMTS sieć rdzeniowa i dostępowa; usługi dodane (SMS, MMS, VMS, RBT, platforma lokalizacyjna); IN, firewall'e, router'y IP oraz switch'e.
@@ -66,36 +64,36 @@ Dodatkowe obowiązki:
 
 Narzędzia: IBM Tivoli, BMC Remedy, narzędzia zarządzania siecią dostarczane przez dostawców sprzętu (CLI oraz GUI), Wireshark, inne analizatory protokołów.
 
-#### **VIII.2008 - IX.2008** Polimex-Mostostal S.A.
+### **VIII.2008 - IX.2008** Polimex-Mostostal S.A.
 **Praktykant**
 
 Na początku moimi obowiązkami było wprowadzanie zmian w rysunkach technicznych, a także inne powtarzające się czynności. W związku z tym szybko napisałem skrypt automatyzujący. Dzięki temu mój przełożony polecił mi zająć się jedynie tworzenie nowych narzędzi automatyzujących. Pisałem makra Excel(VBA), VBScript i AutoCAD script.
 
-### <a name="edukacja"></a>Edukacja
+## <a name="edukacja"></a>Edukacja
 
-#### **IX.2005 – VI.2010**  Politechnika Warszawska - studia inżynierskie
+### **IX.2005 – VI.2010**  Politechnika Warszawska - studia inżynierskie
 Wydział Elektroniki i Technik Informacyjnych
 
 - Kierunek: Telekomunikacja
 - Specjalność: Systemy i sieci telekomunikacyjne
 - Ocena końcowa: bardzo dobry
 
-### <a name="inne"></a>Inne umiejętności i wiedza
+## <a name="inne"></a>Inne umiejętności i wiedza
 
-#### Szkolenia
+### Szkolenia
 
 - Nokia Siemens Networks: signalling in cellular core network, MSS, MGW, CS data;
 - Szkolenia wewnętrzne Polkomtel S.A.: NSS, GPRS, BSS, VAS, IN, roaming i sygnalizacja.
 
-#### Języki obce
+### Języki obce
 - **Angielski**: zdany egzamin na poziomie B2; czytanie książek i dokumentacji technicznej; pisemna i ustna komunikacja ze współpracownikami i dostawcami;
 - **Rosyjski**: komunikatywny;
 
-#### Prawo jazdy
+### Prawo jazdy
 kategorii B
 
-### <a name="projekty"></a>Projekty hobbystyczne
+## <a name="projekty"></a>Projekty hobbystyczne
 
-### <a name="ukryte"></a>Dane kontaktowe i prywatne
+## <a name="ukryte"></a>Dane kontaktowe i prywatne
 
 Aby odczytać dane musisz mieć moc.

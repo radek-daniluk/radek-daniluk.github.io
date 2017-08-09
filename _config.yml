@@ -3,3 +3,5 @@ description:
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+head_pic: portret.jpg
