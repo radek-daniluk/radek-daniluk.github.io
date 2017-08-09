@@ -1,9 +1,25 @@
 ---
 layout: default
 lang: pl
+h:
+  me_and_career: "O mnie i moich aspiracjach zawodowych"
+  experience: "Doświadczenie zawodowe"
+  education: "Edukacja"
+  other: "Inne umiejętności"
+  projects: "Projekty hobbystyczne"
+  hidden:   ""
+a:
+  me_and_career: "ja_i_kariera"
+  experience: "doswiadczenie"
+  education: "edukacja"
+  other: "inne"
+  projects: "projekty"
+  hidden:   "hidden"
+
+
 ---
 
-## <a name="ja_i_kariera"></a>O mnie i moich aspiracjach zawodowych
+## <a name="ja_i_kariera"></a>{{ page.h.me_and_career }}
 
 Lubię programować i aktualnie w pracy widzę siebie na stanowisku związanym z **rozwojem oprogramowania**, choć z góry nie odrzucam innych stanowisk, bo życie potrafi mile zaskoczyć.
 
