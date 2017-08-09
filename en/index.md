@@ -1,4 +1,9 @@
-## Welcome to Radek's page ![Radosław Daniluk](portret.jpg)
+#---
+layout: default
+lang: en
+---
+
+# Welcome to Radek's page ![Radosław Daniluk](portret.jpg)
 
 ### <a name="me_and_career"></a>About me and my career aspirations
 

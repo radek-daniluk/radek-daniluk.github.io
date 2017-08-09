@@ -1,3 +1,8 @@
+---
+layout: default
+lang: pl
+---
+
 ## Witaj na strone Radka ![Radosław Daniluk](portret.jpg)
 
 ### <a name="ja_i_kariera"></a>O mnie i moich aspiracjach zawodowych
