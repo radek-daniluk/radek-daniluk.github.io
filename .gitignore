@@ -1,0 +1,10 @@
+assets
+.sass-cache
+Gemfile
+Gemfile.lock
+jekyll-theme-minimal.gemspec
+_sass
+script
+_site
+.travis.yml
+*.gem
