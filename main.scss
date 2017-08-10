@@ -213,9 +213,11 @@ hr {
 }
 
 footer {
-  width:270px;
-  float:left;
-  position:fixed;
+  width:100%;
+  float:right;
+  text-align:center;
+  //border-top:1px, $color_text;
+  top:50px;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
@@ -271,19 +273,32 @@ footer {
   pre, code {
     word-wrap:normal;
   }
+
+  section ul, section p {
+    padding-left: 0;
+  }
+
+  header ul {
+    width:70%;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    padding:5px;
+  }
+
+  h2 {
+    text-indent:0;
   }
 
   header ul {
     width:99%;
   }
 
-  header li, header ul li + li + li {
-    width:33%;
+  header li {
+    width:auto;
+    height:auto;
   }
 }
 
