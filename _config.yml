@@ -5,3 +5,5 @@ google_analytics:
 theme: jekyll-theme-minimal
 
 head_pic: portret.jpg
+projects_url: "https://github.com/radek-daniluk"
+github_url: "https://github.com/radek-daniluk"
