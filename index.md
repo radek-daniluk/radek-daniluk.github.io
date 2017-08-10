@@ -98,7 +98,7 @@ Na początku moimi obowiązkami było wprowadzanie zmian w rysunkach technicznyc
 ### Prawo jazdy
 - kategorii B
 
-## <a name="ukryte"></a>Dane kontaktowe i prywatne
+## <a name="info"></a>Informacje osobiste i kontakt
 
 - Data urodzenia: 23 stycznia 1986 r.
 

@@ -95,7 +95,7 @@ Employed in a field of civil engineering I was resposible for making changes in 
 ### Driving licence
 - B category
 
-## <a name="hidden"></a>Contact and personal data
+## <a name="{{ page.a.hidden }}"></a>{{ page.h.hidden }}
 
 - Date of birth: 23 January, 1986
 
