@@ -6,7 +6,7 @@ h:
   experience: "Professional experience"
   education: "Education"
   other: "Other skills"
-  hidden:   ""
+  hidden:   "Personal and contact info"
 a:
   me_and_career: "me_and_career"
   experience: "experience"
@@ -24,19 +24,19 @@ I like programming and currently I am looking for a job involving **software dev
 
 Broad programming interest causes that I do not have a preference to work with a specific technology or language. However, I want to effectively utilise **good programming practices** and **modern methods** of code creation and maintenance.
 
-I am **meticulous** and I like to go into technical details. I prefer tasks demanding thorough approach. I love to **teach new things** and **expand my knowledge** in different fields. I do not like monotony so I enjoy automating work.
+I am **meticulous** and I like to go into technical details. I prefer tasks demanding thorough approach. I love to **learn new things** and **expand my knowledge** in different fields. I do not like monotony so I enjoy automating work.
 
 I have practical knowledge of **teleinformatic and telecommunication networks**. My commercial experience inculdes core and radio access of **cellular networks** (**SS7**, **GSM**, **UMTS**, **LTE**) and **TCP/IP**.
 
 I am **Linux** fan and I have commercial experience as power user. At home I am using: Ubuntu, Debian, ArchLinux and OpenWRT.
 
-I can ephatize with people and I can explain technical issues to non technical staff in simple words.
+I can emphatize with people and I can explain technical issues to non technical staff in simple words.
 
-If it would be required I could gladly widen my basic knowledge in field of **electronics**, **energy industry** or **civil engineering**.
+If it is required I can easly  widen my basic knowledge in field of **electronics**, **energy industry** or **civil engineering**.
 
 I am also trying to become better person and value friendly people with good sense of humor.
 
-Currently I am developing my smallholding in Sarniak village in lubelskie voivodeship, so I prefer to start working in this voivoidship.
+Currently I am developing my small farm in Sarniak village in lubelskie voivodeship, so I would prefer work in this area.
 
 ## <a name="experience"></a>Professional Experience
 #### X.2013 – V.2014
@@ -76,7 +76,7 @@ Employed in a field of civil engineering I was resposible for making changes in 
 
 ## <a name="education"></a>Education
 #### IX.2005 – VI.2010
-###  Warsaw University of Technology - **The Faculty of Electronics and Information Technology** - Bsc(Eng)
+###  Warsaw University of Technology - **The Faculty of Electronics and Information Technology** - Bachelor of Science
 - Major: Telecommunication Systems and Networks.
 - Final grade: very good.
 
@@ -93,8 +93,11 @@ Employed in a field of civil engineering I was resposible for making changes in 
 - **Russian:** Comunicative
 
 ### Driving licence
-B category
+- B category
 
 ## <a name="hidden"></a>Contact and personal data
 
-Use your magical skills to show the data.
+- Date of birth: 23 January, 1986
+
+Use your magical skills to get contact info.
+

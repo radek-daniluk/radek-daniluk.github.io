@@ -6,13 +6,13 @@ h:
   experience: "Doświadczenie zawodowe"
   education: "Edukacja"
   other: "Inne umiejętności"
-  hidden:   ""
+  hidden:   "Informacje osobiste i kontakt"
 a:
   me_and_career: "ja_i_kariera"
   experience: "doswiadczenie"
   education: "edukacja"
   other: "inne"
-  hidden:   "hidden"
+  hidden: "info"
 
 ---
 
@@ -96,8 +96,11 @@ Na początku moimi obowiązkami było wprowadzanie zmian w rysunkach technicznyc
 - **Rosyjski**: komunikatywny
 
 ### Prawo jazdy
-kategorii B
+- kategorii B
 
 ## <a name="ukryte"></a>Dane kontaktowe i prywatne
 
-Aby odczytać dane musisz mieć moc.
+- Data urodzenia: 23 stycznia 1986 r.
+
+Aby uzyskać dane kontaktowe użyj swych mocy.
+
