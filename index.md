@@ -37,6 +37,13 @@ Dążę również do tego by stawać się lepszym człowiekiem i cenię sobie pr
 Aktualnie zajmuję się także urządzaniem swojego siedliska we wsi Sarniak w woj. lubelskim, więc praca w lubelskim jest preferowaną.
 
 ## <a name="doswiadczenie"></a>Doświadczenie zawodowe
+#### IX.2017 – X.2017
+### WebProject Systemy Informatyczne - **Programista**
+
+- Implementacja nowych funkcji aplikacji desktopowej zgodnie z zadanym projektem.
+
+**Narzędzia**: Delphi, RAD Studio, PL/SQL, git, Enterprise Architect.
+
 #### X.2013 – V.2014
 ### Centrum Wsparcia Teleinformatycznego Sił Zbrojnych - **Technik utrzymania stacji transmisyjnej i komutacyjnej**
 

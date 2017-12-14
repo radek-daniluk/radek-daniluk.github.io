@@ -39,6 +39,13 @@ I am also trying to become better person and value friendly people with good sen
 Currently I am developing my small farm in Sarniak village in lubelskie voivodeship, so I would prefer work in this area.
 
 ## <a name="experience"></a>Professional Experience
+#### IX.2017 – X.2017
+### WebProject Systemy Informatyczne - **Programmer**
+
+- Implementation of new desktop application features in accordance with the given project.
+
+**Tools**: Delphi, RAD Studio, PL/SQL, git, Enterprise Architect.
+
 #### X.2013 – V.2014
 ### ICT Support Centre of Polish Armed Forces - **Transmission and switching station maintainer**
 - Maintenance	and troubleshooting of issues related to fixed telephone,	transmission and LAN networks.
