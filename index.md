@@ -18,7 +18,7 @@ a:
 
 ## <a name="ja_i_kariera"></a>{{ page.h.me_and_career }}
 
-Lubię programować i aktualnie w pracy widzę siebie na stanowisku związanym z **rozwojem oprogramowania**. W akademickich i [amatorskich projektach]({{ site.projects_url }}) spraktykowałem pisanie kodu w takich językach jak: **C**, **C++**, **Java&nbsp;SE**, **HTML**, **CSS**, a także różnych **językach skryptowych**. W pracy miałem do czynienia z C++ oraz językami sktyptowymi. Posiadam też wiedzę z zakresu baz danych i **SQL**, a także doświadcznie w pracy z **systemami kontroli wersji**. W praktyce poznałem **Eclipse**, **NetBeans** i narzędzia programistyczne Linux'a: **vim**, **gcc**, **make**, **gdb**. Znam też **valgrind**'a i **narzędzia programistyczne przeglądarek**.
+Lubię programować i aktualnie w pracy widzę siebie na stanowisku związanym z **rozwojem oprogramowania**. W akademickich i [amatorskich projektach]({{ site.projects_url }}) spraktykowałem pisanie kodu w takich językach jak: **C**, **C++**, **Java&nbsp;SE**, **HTML**, **CSS**, a także różnych **językach skryptowych**. W pracy miałem do czynienia z C++, Delphi oraz językami sktyptowymi. Posiadam też wiedzę z zakresu baz danych i **SQL**, a także doświadcznie w pracy z **systemami kontroli wersji**. W praktyce poznałem, **NetBeans** i narzędzia programistyczne Linux'a: **vim**, **gcc**, **make**, **gdb**. Znam też **valgrind**'a i **narzędzia programistyczne przeglądarek**.
 
 Ze względu na szerokie zainteresowanie tematem programowania nie mam preferencji co do konkretnego języka lub technologii. Chciałbym jednak stosować **dobre praktyki programowania** i **współczesne metodyki** tworzenia i utrzymania kodu.
 
@@ -30,11 +30,7 @@ Jestem fanem **Linux**a i mam z nim zawodowe doświadczenie na poziomie zaawanso
 
 Potrafię wczuć się w perspektywę innej osoby, także „nietechnicznej” i wytłumaczyć kwestie techniczne prostym językiem.
 
-Jeśli wymagałoby tego stanowisko pracy z chęcią poszerzyłbym także podstawową wiedzę z zakresu **budownictwa**, **energetyki** lub **elektroniki**.
-
 Dążę również do tego by stawać się lepszym człowiekiem i cenię sobie przyjazne towarzystwo z humorem.
-
-Aktualnie zajmuję się także urządzaniem swojego siedliska we wsi Sarniak w woj. lubelskim, więc praca w lubelskim jest preferowaną.
 
 ## <a name="doswiadczenie"></a>Doświadczenie zawodowe
 #### IX.2017 – X.2017
