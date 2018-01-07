@@ -20,7 +20,7 @@ projects_url: "https://github.io/radek-daniluk"
 
 ## <a name="me_and_career"></a>About me and my career aspirations
 
-I like programming and currently I am looking for a job involving **software development**. By academic and [hobby projects]({{ site.projects_url }}) I practised writing code in languages like: **C**, **C++**, **Java&nbsp;SE**, **HTML**, **CSS** and different **scripting languages**. At work I dealt with C++ and scripting languages. I also have knowledge of databases and **SQL** and experience with **revision control systems**. I know in practice **Eclipse**, **NetBeans** and Linux development tools: **vim**, **gcc**, **make**, **gdb**. I also know **valgrind** and **in-browser development tools**. 
+I like programming and currently I am looking for a job involving **software development**. By academic and [hobby projects]({{ site.projects_url }}) I practised writing code in languages like: **C**, **C++**, **Java&nbsp;SE**, **HTML**, **CSS** and different **scripting languages**. At work I dealt with C++, Delphi and scripting languages. I also have knowledge of databases and **SQL** and experience with **revision control systems**. I know in practice, **NetBeans** and Linux development tools: **vim**, **gcc**, **make**, **gdb**. I also know **valgrind** and **in-browser development tools**. 
 
 Broad programming interest causes that I do not have a preference to work with a specific technology or language. However, I want to effectively utilise **good programming practices** and **modern methods** of code creation and maintenance.
 
@@ -32,11 +32,7 @@ I am **Linux** fan and I have commercial experience as power user. At home I am 
 
 I can emphatize with people and I can explain technical issues to non technical staff in simple words.
 
-If it is required I can easly  widen my basic knowledge in field of **electronics**, **energy industry** or **civil engineering**.
-
 I am also trying to become better person and value friendly people with good sense of humor.
-
-Currently I am developing my small farm in Sarniak village in lubelskie voivodeship, so I would prefer work in this area.
 
 ## <a name="experience"></a>Professional Experience
 #### IX.2017 – X.2017
