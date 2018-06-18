@@ -2,13 +2,13 @@
 layout: default
 lang: pl
 h:
-  me_and_career: "O mnie i moich aspiracjach zawodowych"
+  about: "O mnie i moich zainteresowaniach"
   experience: "Doświadczenie zawodowe"
   education: "Edukacja"
   other: "Inne umiejętności"
   hidden:   "Informacje osobiste i kontakt"
 a:
-  me_and_career: "ja_i_kariera"
+  about: "o_mnie"
   experience: "doswiadczenie"
   education: "edukacja"
   other: "inne"
@@ -16,7 +16,7 @@ a:
 
 ---
 
-## <a name="ja_i_kariera"></a>{{ page.h.me_and_career }}
+## <a name="o_mnie"></a>{{ page.h.about }}
 
 Lubię programować i aktualnie w pracy widzę siebie na stanowisku związanym z **rozwojem oprogramowania**. W akademickich i [amatorskich projektach]({{ site.projects_url }}) spraktykowałem pisanie kodu w takich językach jak: **C**, **C++**, **Java&nbsp;SE**, **HTML**, **CSS**, a także różnych **językach skryptowych**. W pracy miałem do czynienia z C++, Delphi oraz językami sktyptowymi. Posiadam też wiedzę z zakresu baz danych i **SQL**, a także doświadcznie w pracy z **systemami kontroli wersji**. W praktyce poznałem **NetBeans** i narzędzia programistyczne Linux'a: **vim**, **gcc**, **make**, **gdb**. Znam też **valgrind**'a i **narzędzia programistyczne przeglądarek**.
 
@@ -104,6 +104,4 @@ Na początku moimi obowiązkami było wprowadzanie zmian w rysunkach technicznyc
 ## <a name="info"></a>Informacje osobiste i kontakt
 
 - Data urodzenia: 23 stycznia 1986 r.
-
-Aby uzyskać dane kontaktowe użyj swych mocy.
-
+- WWW: [rdaniluk.pl](https://rdaniluk.pl)
