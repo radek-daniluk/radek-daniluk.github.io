@@ -18,10 +18,6 @@ a:
 
 ## <a name="o_mnie"></a>{{ page.h.about }}
 
-Lubię programować i aktualnie w pracy widzę siebie na stanowisku związanym z **rozwojem oprogramowania**. W akademickich i [amatorskich projektach]({{ site.projects_url }}) spraktykowałem pisanie kodu w takich językach jak: **C**, **C++**, **Java&nbsp;SE**, **HTML**, **CSS**, a także różnych **językach skryptowych**. W pracy miałem do czynienia z C++, Delphi oraz językami sktyptowymi. Posiadam też wiedzę z zakresu baz danych i **SQL**, a także doświadcznie w pracy z **systemami kontroli wersji**. W praktyce poznałem **NetBeans** i narzędzia programistyczne Linux'a: **vim**, **gcc**, **make**, **gdb**. Znam też **valgrind**'a i **narzędzia programistyczne przeglądarek**.
-
-Ze względu na szerokie zainteresowanie tematem programowania nie mam preferencji co do konkretnego języka lub technologii. Chciałbym jednak stosować **dobre praktyki programowania** i **współczesne metodyki** tworzenia i utrzymania kodu.
-
 Jestem **skrupulatny** i lubię zagłębiać się w techniczne niuanse. Preferuję pracę nastawioną na dokładne wykonanie zadania. Bardzo lubię **uczyć się nowych zagadnień** i **poszerzać wiedzę** nie tylko z zakresu nowych technologii. Nie lubię monotonii, co sprawia, że chętnie automatyzuję pracę.
 
 Posiadam praktyczną wiedzę z zakresu **sieci teleinformatycznych i telekomunikacyjnych**, a także zawodowe doświadczenie w zakresie **sieci komórkowych**: zarówno sieci rdzeniowej (**SS7**) jak i dostępu radiowego (**GSM**, **UTMS**, **LTE**), a także **TCP/IP**.

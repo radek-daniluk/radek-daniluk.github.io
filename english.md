@@ -19,10 +19,6 @@ projects_url: "https://github.io/radek-daniluk"
 
 ## <a name="about"></a>About me and my interests
 
-I like programming and currently I am looking for a job involving **software development**. By academic and [hobby projects](<{{ site.projects_url }}>) I practised writing code in languages like: **C**, **C++**, **Java SE**, **HTML**, **CSS** and different **scripting languages**. At work I dealt with C++, Delphi and scripting languages. I also have knowledge of databases and **SQL** and experience with **revision control systems**. I know in practice **NetBeans** and Linux development tools: **vim**, **gcc**, **make**, **gdb**. I also know **valgrind** and **in-browser development tools**.
-
-Broad programming interest causes that I do not have a preference to work with a specific technology or language. However, I want to effectively utilise **good programming practices** and **modern methods** of code creation and maintenance.
-
 I am **meticulous** and I like to go into technical details. I prefer tasks demanding thorough approach. I love to **learn new things** and **expand my knowledge** in different fields. I do not like monotony so I enjoy automating work.
 
 I have practical knowledge of **teleinformatic and telecommunication networks**. My commercial experience inculdes core and radio access of **cellular networks** (**SS7**, **GSM**, **UMTS**, **LTE**) and **TCP/IP**.
